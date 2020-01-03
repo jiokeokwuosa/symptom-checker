@@ -1,0 +1,70 @@
+html, body{
+    background:#111111;
+    color:white;
+    height: 100vh;
+    overflow: hidden;
+}       
+#desktopHomepage .row1 {
+    padding: 57px 105px;
+    border-radius: 12px;
+}
+#desktopHomepage .row1 .float1 {
+    position: absolute;
+    left: 46px;
+    top: 34px;
+    width: 74px;
+    height: 64px;
+}
+#desktopHomepage .carousel img {
+    border-radius: 12px 0px 0px 12px;
+}
+#desktopHomepage .w-100 {
+    height: 540px;
+    width:375px;
+}
+
+#desktopHomepage .row1 .col-md-7 {
+    background: #F2F2F2;
+    color:#494949;
+    margin-left: -27px;
+    border-radius: 0px 12px 12px 0px;
+    padding: 16px 64px;
+}
+
+#desktopHomepage .row1 h2{
+    font-family: font2;
+    margin-top: 40px;
+}
+#desktopHomepage .row1 h4{
+    margin-top: 50px;
+}
+#desktopHomepage #secondSection .myButton {
+    background:#353535;
+    border-radius: 8px;
+    border: none;
+    width: 100%;
+    color: white;
+    padding: 11px 2px;  
+    font-size: 18px;     
+}
+#desktopHomepage #secondSection{
+    margin-top:120px;
+    text-align: center;
+}
+
+#desktopHomepage #secondSection a{
+    display: block;
+}
+#desktopHomepage .carousel-caption h1{
+    font-family: font2 !important;
+    text-align: left;    
+}
+#desktopHomepage .carousel-caption h5{
+    text-align: left;
+    margin-top: -20px;
+}
+#desktopHomepage .carousel-caption{
+    top:40% !important;
+}
+
+

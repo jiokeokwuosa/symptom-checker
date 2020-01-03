@@ -1,0 +1,71 @@
+@font-face {
+    font-family: 'font1';
+    src: url(./../../assets/fonts/segoeuil.ttf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'font2';
+    src: url(./../../assets/fonts/segoeuibold.ttf) format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+html, body{
+    font-family: font1;
+}
+.absolute {
+    position: absolute;
+}
+
+.relative {
+    position: relative;
+}
+
+.fullWidth {
+    width: 100%;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    text-align: left;
+}
+
+.center {
+    text-align: center;
+}
+
+.centerImage {
+    margin: auto;
+    display: block;
+}
+
+.float-left {
+    float: left;
+}
+a {
+    color:inherit !important;
+    text-decoration: none;
+    background-color: inherit !important;
+}
+a:hover {
+    text-decoration: none !important;
+}
+.off{
+    display: none;
+}
+.show{
+    display: block;
+}
+.hidden{
+    visibility: hidden;
+}
+.bold{
+    font-weight: bold;
+}
+.srv-validation-message{
+    color:red !important;
+    text-align: left !important;
+}

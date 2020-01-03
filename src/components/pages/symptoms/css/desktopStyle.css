@@ -1,0 +1,74 @@
+ 
+    #desktopSymptoms .row1 {
+        padding: 57px 105px;
+        border-radius: 12px;
+    }
+    #desktopSymptoms .row1 .float1 {
+        position: absolute;
+        left: 46px;
+        top: 34px;
+        width: 74px;
+        height: 64px;
+    }
+    #desktopSymptoms .carousel img {
+        border-radius: 0px 12px 12px 0px;
+    }
+    #desktopSymptoms .w-100 {
+        height: 540px;
+        width:375px;
+    }
+  
+    #desktopSymptoms .row1 .col-md-7 {
+        background: #F2F2F2;
+        color:#494949;
+        margin-right: -27px;
+        border-radius: 12px 0px 0px 12px;
+        padding: 16px 64px;
+    }
+
+    #desktopSymptoms .row1 h2{
+        font-family: font2;
+        margin-top: 70px;
+    }
+    #desktopSymptoms .row1 h4{
+        margin-top: 30px;
+    }
+       
+    #desktopSymptoms input[type='text']{
+        border: solid 1px rgba(73, 73, 73, 0.6);
+        width: 100%;
+        padding: 14px;
+        color:rgba(73, 73, 73, 0.6);
+        background: transparent;
+        margin-top: 30px;
+    }
+    
+
+    #desktopSymptoms input[type='submit'], #secondSection .myButton {
+        background:#353535;
+        border-radius: 8px;
+        border: none;
+        width: 100%;
+        color: white;
+        padding: 11px 2px;  
+        font-size: 18px;     
+    }
+    #desktopSymptoms #secondSection{
+        margin-top:100px;
+        text-align: center;
+    }
+
+    #desktopSymptoms #secondSection a{
+        display: block;
+    }
+    #desktopSymptoms .carousel-caption h1{
+        font-family: font2 !important;
+        text-align: left;    
+    }
+    #desktopSymptoms .carousel-caption h5{
+        text-align: left;
+        margin-top: -20px;
+    }
+    #desktopSymptoms .carousel-caption{
+        top:40% !important;
+    }
