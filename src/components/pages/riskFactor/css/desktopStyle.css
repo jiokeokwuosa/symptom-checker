@@ -1,0 +1,78 @@
+ 
+    #desktopRisk .row1 {
+        padding: 57px 105px;
+        border-radius: 12px;
+    }
+    #desktopRisk .row1 .float1 {
+        position: absolute;
+        left: 46px;
+        top: 34px;
+        width: 74px;
+        height: 64px;
+    }
+    #desktopRisk .carousel img {
+        border-radius: 0px 12px 12px 0px;
+    }
+    #desktopRisk .w-100 {
+        height: 540px;
+        width:375px;
+    }
+  
+    #desktopRisk .row1> .col-md-7 {
+        background: #F2F2F2;
+        color:#494949;
+        margin-right: -15px;
+        border-radius: 12px 0px 0px 12px;
+        padding: 16px 64px;
+    }
+
+    #desktopRisk .row1 h3{
+        font-family: font2;
+        margin-top: 13px;
+    }
+    #desktopRisk .row1 h4{
+        margin-top: 30px;
+    }
+    #desktopRisk .push {
+        margin-top: 30px;
+    }  
+    #desktopRisk .push1 {
+        margin-top: 16px;
+    }
+    #desktopRisk .push2 {
+        margin-top: -8px;
+    }
+    #desktopRisk #secondSection .myButton {
+        background:#353535;
+        border-radius: 8px;
+        border: none;
+        width: 100%;
+        color: white;
+        padding: 11px 2px;  
+        font-size: 18px;    
+        margin-top: 10px;        
+    }
+    #desktopRisk #secondSection{
+        text-align: center;
+        position: absolute;
+        width: 85%;
+        bottom: 16px;
+    }
+
+    #desktopRisk #secondSection a{
+        display: block;
+    }
+    #desktopRisk .carousel-caption h1{
+        font-family: font2 !important;
+        text-align: left;    
+    }
+    #desktopRisk .carousel-caption h5{
+        text-align: left;
+        margin-top: -20px;
+    }
+    #desktopRisk .carousel-caption{
+        top:40% !important;
+    }
+    #desktopRisk .srv-validation-message {       
+        margin-left: 14px !important;
+    }

@@ -5,7 +5,13 @@ import {
 const initialState  = {
     sex:'',
     age:'',
-    redirect:false
+    redirect:false,  
+    redirect1:false, 
+    redirect2:false, 
+    p_7:'',
+    p_8:'',
+    p_9:'',
+    p_28:''
 };
 
 const patientReducer = (state= initialState, action) =>{

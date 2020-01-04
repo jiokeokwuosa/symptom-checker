@@ -41,7 +41,7 @@ class Patient extends Component {
 		myArray.reverse();		
 		return (
 			<>
-			  {this.props.redirect ? <Redirect to="/symptoms" /> : null}
+			  {this.props.redirect ? <Redirect to="/risk-factors" /> : null}
 			  	<div id="desktopPatient" className="container desktopVersion">
 					<div className="row row1">
 						<div className="col-md-7">
@@ -79,7 +79,7 @@ class Patient extends Component {
 								<div id="secondSection" className="row">
 									<div className="col-md-12">
 										<div className="myButton">
-											<Link to='/symptoms'onClick={this.handleSubmit} >Next</Link>
+											<Link to='/risk-factor'onClick={this.handleSubmit} >Next</Link>
 										</div>
 									</div>
 								</div>
